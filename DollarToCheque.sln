@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollarToCheque", "DollarToCheque\DollarToCheque.csproj", "{ADC7886E-9BE7-4F48-84CE-3FC4D94B1874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollarToChequeTests", "DollarToChequeTests\DollarToChequeTests.csproj", "{12EE5582-FF96-4489-B406-629D6FB53E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC7886E-9BE7-4F48-84CE-3FC4D94B1874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC7886E-9BE7-4F48-84CE-3FC4D94B1874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC7886E-9BE7-4F48-84CE-3FC4D94B1874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC7886E-9BE7-4F48-84CE-3FC4D94B1874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EE5582-FF96-4489-B406-629D6FB53E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EE5582-FF96-4489-B406-629D6FB53E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EE5582-FF96-4489-B406-629D6FB53E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EE5582-FF96-4489-B406-629D6FB53E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

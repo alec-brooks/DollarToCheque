@@ -1,0 +1,7 @@
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\bin\Debug\DollarToChequeTests.dll
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\bin\Debug\DollarToChequeTests.pdb
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\bin\Debug\DollarToCheque.exe
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\bin\Debug\DollarToCheque.pdb
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\obj\Debug\DollarToChequeTests.csprojResolveAssemblyReference.cache
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\obj\Debug\DollarToChequeTests.dll
+C:\Users\Alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToChequeTests\obj\Debug\DollarToChequeTests.pdb

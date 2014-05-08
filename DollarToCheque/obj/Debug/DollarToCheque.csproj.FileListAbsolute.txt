@@ -1,0 +1,6 @@
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\bin\Debug\DollarToCheque.exe.config
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\bin\Debug\DollarToCheque.exe
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\bin\Debug\DollarToCheque.pdb
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\obj\Debug\DollarToCheque.csprojResolveAssemblyReference.cache
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\obj\Debug\DollarToCheque.exe
+c:\users\alec\documents\visual studio 2013\Projects\DollarToCheque\DollarToCheque\obj\Debug\DollarToCheque.pdb
